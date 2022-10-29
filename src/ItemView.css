@@ -1,0 +1,18 @@
+*{
+
+}
+
+.container{
+    display: flex;
+    padding:5rem;
+}
+
+.text-box{
+    padding: 5rem;
+    text-align: left;
+}
+
+.button{
+    background-color: black;
+    font-size: 1000px;
+  }
