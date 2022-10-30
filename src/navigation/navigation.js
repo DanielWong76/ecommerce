@@ -1,5 +1,5 @@
 import logo from './static/REAPER.jpg';
-import './index.css'
+import './index.css';
 
 export default function Navigation() {
     return(
